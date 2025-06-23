@@ -6,5 +6,5 @@ CS210 Cheatsheet
 - Added C Programming Notes
 
 Still todo
-- [ ] Structure of stack frames
-- [ ] Add how recursion works using stack frames
+- [x] Structure of stack frames
+- [ ] Caches
