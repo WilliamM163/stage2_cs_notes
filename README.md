@@ -7,4 +7,4 @@ CS210 Cheatsheet
 
 Still todo
 - [x] Structure of stack frames
-- [ ] Caches
+- [x] Caches
