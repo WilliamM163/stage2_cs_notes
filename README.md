@@ -3,9 +3,8 @@ A repo of the some of my notes for my CS courses
 
 ## Changelog
 CS210 Cheatsheet
-- Changed Title
-- Fixed Control Unit State Diagram
-- Added some more detail to SR Latch
-- Fixed detail about JSRR Instruction
-- Changed section about Controller Registers (more accurate and fixed some mistakes)
-- Added more detail on how interrupts are handled
+- Added C Programming Notes
+
+Still todo
+- [ ] Structure of stack frames
+- [ ] Add how recursion works using stack frames
